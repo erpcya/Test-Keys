@@ -2,7 +2,7 @@
 Test Keys from keyboard
 
 ## How to run?
-- Just download last release from https://github.com/erpcya/adempiere-gRPC-Server/releases
+- Just download last release from https://github.com/erpcya/Test-Keys/releases
 - unzip it
 - run sh / bat
 
